@@ -85,8 +85,47 @@ Ensuring that education resorces remain maintained and updated is a significant 
 * **High maintenance**: Community chat/forum – issues with moderation. Need to choose a platform (Discord, Slack).
 * **High maintenance**: Dedicated “radioglaciology” mailing list – monthly/quarterly bulletins with community material?
 
-### Interdisciplinary applications 
-[To be completed - Clara Henry?]
+### Interdisciplinary applications
+
+Phase-sensitive radar has applications across a wide range of glaciological disciplines, and there are many opportunities for closer collaboration between radar users, ice-sheet modellers, ice-core scientists, remote-sensing specialists, firn researchers, and the machine-learning community.
+
+Interdisciplinary work also presents challenges. Different communities may use different terminology, coding languages and modelling practices, as well as different frames of reference. Overcoming these barriers will require closer communication between disciplines, but the potential scientific benefits are considerable. In particular, combining radar observations with complementary measurements and models can help constrain uncertainties, test assumptions, and provide new interpretations of ice-sheet processes.
+
+Several potential pathways for interdisciplinary collaboration were identified:
+
+#### Ice cores
+
+* Ice cores can provide ground-truth information against which phase-sensitive radar measurements can be compared and validated.
+* Combining radar-derived estimates of ice fabric and age with ice-core observations may help to interpret past changes in ice-flow regimes.
+
+#### Ice-sheet modelling
+
+* Comparisons between radar observations and ice-sheet models can help constrain model equations and parameters.
+* Ice-fabric models can help identify conditions under which assumptions made in radar processing may break down.
+* Fabric models can also provide the full three-dimensional crystal-orientation tensor, offering a useful basis for comparison with radar-derived estimates.
+* More broadly, improved integration between observations and models is important for understanding ice-sheet dynamics and, ultimately, improving projections of future sea-level change.
+
+#### Ice chemistry
+
+* Uncertainties remain around the influence of impurities, including dust, on radar observations.
+* A better understanding of how impurities affect the electrical conductivity of ice would help to constrain assumptions made during radar-data processing and interpretation.
+
+#### Firn
+
+* Firn anisotropy remains an important source of uncertainty and needs to be better understood.
+* Uncertainties associated with the firn can propagate into interpretations of the deeper ice column, making improved characterisation of firn processes valuable for phase-sensitive radar applications.
+
+#### Satellite and remote sensing
+
+* There are opportunities to connect ground-based phase-sensitive radar observations with airborne and satellite remote-sensing measurements.
+* Combining observations made at different spatial and temporal scales could provide additional context for interpreting radar-derived measurements and facilitate comparisons between different observing systems.
+
+#### Machine learning
+
+* Simulation-based inference and physics-informed neural networks (PINNs) offer possible approaches for constraining model parameters.
+* Machine-learning methods could have applications in radar-data processing, ice-sheet modelling, and approaches that combine the two.
+
+A recurring message from the discussion was that researchers should not be discouraged by disciplinary boundaries. Collaborations across these areas involve a learning curve, but also offer substantial opportunities for knowledge exchange and for addressing open research questions that cannot easily be tackled within a single discipline.
 
 ## Posters
 Photographs of the posters from the afternoon session are included below. These include all of the post-it notes from the morning session.
