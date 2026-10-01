@@ -46,7 +46,30 @@ Each group was given a set of guiding questions to consolidate the information f
 ## Outcomes
 
 ### Data archive and access
-[To be completed - Ole Zeising?]
+The wishes and ideas expressed by the workshop participants covered data collection, processing and archiving of ApRES measurements. They ranged from a standard operating procedure and consistent metadata collection to an open-source community code for data processing and an ApRES data repository. Regarding data and results publishing, participants pointed out that raw data are scattered across national data repositories and are hard to find. A central ApRES archive is needed that covers different processing levels. Derived results could be collected in a common file, similar to BedMachine, or distributed as part of Quantarctica/QGreenland. Some projects already started to address these points. **NECKLACE** collects information on raw data and melt rates of Antarctic Ice Shelves and **xApRES** provides Python processing code for the community. A software and data host like the **Open Polar Radar (OPR)** project for airborne radar is something that the ApRES community would like to aim for: a common framework for data access and processing that is open to the whole community.
+
+In a second breakout session, we further elaborated on ideas for archiving ApRES data, which should be provided at several processing levels:
+
+#### Level 1
+
+- Raw data files (.dat)
+- Config file
+- Standardized metadata
+
+#### Level 2a
+- Stacked complex amplitude and phase signals
+
+#### Level 2b
+- Co-registered interferograms
+
+#### Level 3
+- Vertical displacement profiles
+- Strain rate
+- Melt rate
+- Time delay and amplitude change (polarimetric)
+- Uncertainty metrics
+
+Such an ApRES archive would require a server to host the data with a wiki and serves as a community platform that can grow over time.
 
 ### Education and community
 There are several existing resources that currently exist to educate users on ApRES:
